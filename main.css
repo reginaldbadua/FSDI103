@@ -1,0 +1,17 @@
+h1  {color: rgb(31, 122, 31);
+    background-color: rgb(150, 144, 144);
+    text-align: center}
+
+table thead {
+    background-color: rgb(99, 99, 163);
+    color: white;   
+    
+}
+
+table button {background-color: rgb(112, 172, 112);
+}
+
+.select:hover {border: 1px rgb(24, 60, 139);
+    box-shadow: -5px 5px 3px rgb(56, 56, 121)}
+
+
